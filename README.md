@@ -1,2 +1,2 @@
-# jupyter_fem_code
+# Код Хеммингтона
 Task for my IT class
